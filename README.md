@@ -36,7 +36,7 @@
 <h3 align="center">File Manager</h3>
 
   <p align="center">
-  TODO: ADD DESCRIPTION OF EXACTLY WHAT THIS PROJECT WILL DO HERE. 
+  A python application that will automatically sort your files into folders based on a user-defined configuration.
     <br />
     <a href="https://github.com/tristenCodes/file-manager"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `tristen_psd`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Here's a blank template to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,6 +103,10 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+Once you have the necessary tools, create a `fm-config.txt` file. This file will be responsible for configuring the layout of the directories & files. 
+
+### Configuring `fm-config` File
 
 ### Prerequisites
 
